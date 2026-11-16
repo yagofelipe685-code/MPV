@@ -15,6 +15,8 @@ O **Explore Aracaju** é uma aplicação web desenvolvida para facilitar a desco
 
 # 2. Problema
 
+Dificuldade em localizar e acessar informações detalhadas de pontos turísticos em um único lugar.
+
 # 2.1 Contexto
 
 Aracaju, capital do estado de Sergipe, possui diversos pontos turísticos, culturais e de lazer que atraem visitantes e moradores. Entretanto, as informações sobre essas atrações encontram-se distribuídas em diferentes plataformas, dificultando a pesquisa e o planejamento de passeios. Nesse contexto, surge a necessidade de uma ferramenta digital que centralize essas informações e facilite o acesso aos locais turísticos.
@@ -34,6 +36,8 @@ A hipótese do projeto é que o desenvolvimento de uma aplicação web voltada e
 ---
 
 # 3. Público-Alvo
+
+Turistas.
 
 # 3.1 Perfil dos Usuários
 
