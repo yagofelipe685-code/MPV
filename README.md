@@ -57,13 +57,13 @@ A aplicação poderá ser utilizada por meio de computadores, notebooks, tablets
 
 # 4.1 Funcionalidades Principais
 
-- [ ] **Funcionalidade 01 – Listagem de Pontos Turísticos:** Exibir os principais pontos turísticos de Aracaju, apresentando seus nomes e informações básicas.
+Funcionalidade 01 – Listagem de Pontos Turísticos:** Exibir os principais pontos turísticos de Aracaju, apresentando seus nomes e informações básicas.
 
-- [ ] **Funcionalidade 02 – Pesquisa de Atrações:** Permitir que o usuário pesquise pontos turísticos pelo nome.
+Funcionalidade 02 – Pesquisa de Atrações:** Permitir que o usuário pesquise pontos turísticos pelo nome.
 
-- [ ] **Funcionalidade 03 – Visualização de Informações:** Apresentar informações e características dos locais selecionados.
+Funcionalidade 03 – Visualização de Informações:** Apresentar informações e características dos locais selecionados.
 
-- [ ] **Funcionalidade 04 – Mapa Interativo:** Permitir a visualização da localização dos pontos turísticos por meio de um mapa interativo.
+Funcionalidade 04 – Mapa Interativo:** Permitir a visualização da localização dos pontos turísticos por meio de um mapa interativo.
 
 ---
 
