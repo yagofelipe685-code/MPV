@@ -37,7 +37,7 @@ A hipótese do projeto é que o desenvolvimento de uma aplicação web voltada e
 
 # 3. Público-Alvo
 
-Turistas.
+Turistas de modo geral.
 
 # 3.1 Perfil dos Usuários
 
