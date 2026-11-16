@@ -97,7 +97,7 @@ O sistema será desenvolvido como uma aplicação web utilizando HTML5, CSS3 e J
 
 ---
 
-# 7. Requisitos
+# 7. Requisitos.
 
 # 7.1 Requisitos Funcionais
 
